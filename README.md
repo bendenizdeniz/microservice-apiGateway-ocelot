@@ -6,4 +6,4 @@
  
  
 <h3>Onion Architecture</h3>
- ![alt text](https://miro.medium.com/max/462/1*0Pg6_UsaKiiEqUV3kf2HXg.png)
+ <img src="https://miro.medium.com/max/462/1*0Pg6_UsaKiiEqUV3kf2HXg.png" width="500">
