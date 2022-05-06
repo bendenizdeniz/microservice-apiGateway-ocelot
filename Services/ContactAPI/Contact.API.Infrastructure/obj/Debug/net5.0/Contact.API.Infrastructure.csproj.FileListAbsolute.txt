@@ -1,0 +1,15 @@
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net5.0\Contact.API.Infrastructure.deps.json
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net5.0\Contact.API.Infrastructure.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net5.0\ref\Contact.API.Infrastructure.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net5.0\Contact.API.Infrastructure.pdb
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net5.0\Contact.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\bin\Debug\net5.0\Contact.API.Models.pdb
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.csproj.CopyComplete
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\ref\Contact.API.Infrastructure.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Infrastructure\obj\Debug\net5.0\Contact.API.Infrastructure.pdb

@@ -1,0 +1,11 @@
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.deps.json
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\ref\Reservation.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\bin\Debug\net5.0\Reservation.API.Models.pdb
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\ref\Reservation.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ResAPI\Reservation.API.Models\obj\Debug\net5.0\Reservation.API.Models.pdb

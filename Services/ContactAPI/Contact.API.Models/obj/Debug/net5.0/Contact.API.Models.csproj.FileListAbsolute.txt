@@ -1,0 +1,12 @@
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\net5.0\Contact.API.Models.deps.json
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\net5.0\Contact.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\net5.0\ref\Contact.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\net5.0\Contact.API.Models.pdb
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\net5.0\Contact.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\net5.0\Contact.API.Models.AssemblyInfoInputs.cache
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\net5.0\Contact.API.Models.AssemblyInfo.cs
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\net5.0\Contact.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\net5.0\Contact.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\net5.0\ref\Contact.API.Models.dll
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\net5.0\Contact.API.Models.pdb
+C:\Users\deniz\OneDrive\Desktop\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\net5.0\Contact.API.Models.csproj.AssemblyReference.cache
